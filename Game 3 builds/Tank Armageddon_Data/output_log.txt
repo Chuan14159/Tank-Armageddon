@@ -1,0 +1,66 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 980M (ID=0x1617)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7849
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\jamme\Desktop\David's Folder\ICS 161\Game 3\Game 3 builds\Tank Armageddon_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\jamme\Desktop\David's Folder\ICS 161\Game 3\Game 3 builds\Tank Armageddon_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\jamme\Desktop\David's Folder\ICS 161\Game 3\Game 3 builds\Tank Armageddon_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\jamme\Desktop\David's Folder\ICS 161\Game 3\Game 3 builds\Tank Armageddon_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\jamme\Desktop\David's Folder\ICS 161\Game 3\Game 3 builds\Tank Armageddon_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\jamme\Desktop\David's Folder\ICS 161\Game 3\Game 3 builds\Tank Armageddon_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\jamme\Desktop\David's Folder\ICS 161\Game 3\Game 3 builds\Tank Armageddon_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\jamme\Desktop\David's Folder\ICS 161\Game 3\Game 3 builds\Tank Armageddon_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\jamme\Desktop\David's Folder\ICS 161\Game 3\Game 3 builds\Tank Armageddon_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\jamme\Desktop\David's Folder\ICS 161\Game 3\Game 3 builds\Tank Armageddon_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.028 seconds
+Platform assembly: C:\Users\jamme\Desktop\David's Folder\ICS 161\Game 3\Game 3 builds\Tank Armageddon_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\jamme\Desktop\David's Folder\ICS 161\Game 3\Game 3 builds\Tank Armageddon_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 75Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.604119 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3ebc -> priority: 1 
+  Thread -> id: 1cd4 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.728468 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 286.
+Total: 1.202426 ms (FindLiveObjects: 0.016184 ms CreateObjectMapping: 0.016579 ms MarkObjects: 0.124742 ms  DeleteObjects: 1.044523 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.241985 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1522.
+Total: 0.477654 ms (FindLiveObjects: 0.111321 ms CreateObjectMapping: 0.030790 ms MarkObjects: 0.323304 ms  DeleteObjects: 0.011447 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.504019 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1522.
+Total: 0.347385 ms (FindLiveObjects: 0.059213 ms CreateObjectMapping: 0.023290 ms MarkObjects: 0.258959 ms  DeleteObjects: 0.005526 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.455464 ms
+
+Unloading 127 unused Assets to reduce memory usage. Loaded Objects now: 290.
+Total: 5.552634 ms (FindLiveObjects: 0.045002 ms CreateObjectMapping: 0.037501 ms MarkObjects: 0.282645 ms  DeleteObjects: 5.186695 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.285013 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1253.
+Total: 0.528183 ms (FindLiveObjects: 0.050133 ms CreateObjectMapping: 0.061581 ms MarkObjects: 0.406598 ms  DeleteObjects: 0.008684 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.143212 ms
+
+Unloading 607 unused Assets to reduce memory usage. Loaded Objects now: 347.
+Total: 1.502835 ms (FindLiveObjects: 0.080530 ms CreateObjectMapping: 0.082109 ms MarkObjects: 0.358438 ms  DeleteObjects: 0.980573 ms)
+
